@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho com Java e C#
 - 🌱Estutando Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB
 - 😄 Pronomes: ele/dele
-- 💻 O que eu ja trabalhei:
+- 💻 Linguagens e tecnologias que ja trabalhei:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
